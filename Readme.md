@@ -1,4 +1,4 @@
-mytheresa Promotions Test
+
 Description
 We want you to implement a REST API endpoint that given a list of products, applies some discounts to them and can be filtered.
 
